@@ -1,6 +1,6 @@
 import pandas as pd
 
-#Initialize dataframe
+i#nitialize dataframe
 df = pd.DataFrame()
 
 if df.empty:
